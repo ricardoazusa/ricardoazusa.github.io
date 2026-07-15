@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我的博客</title>
-    <link>https://ricardoazusa.github.io/algolia.json</link>
+    <title>Posts on 我的博客</title>
+    <link>https://ricardoazusa.github.io/posts/</link>
     <description>Recent content from 我的博客</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
@@ -15,7 +15,7 @@
     <lastBuildDate></lastBuildDate>
     
     
-    <atom:link href="https://ricardoazusa.github.io/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://ricardoazusa.github.io/posts/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
